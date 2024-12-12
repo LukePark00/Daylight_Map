@@ -2,6 +2,8 @@
 
 # About
 The Daylight Map is a map of the United States that illuminates based on the time of day in each of the five time zones in the country. Depending on the time in these areas, the lights behind the map will light up with different levels of brightness to illustrate the overall daylight found at the current time. The two modes of the map toggle between an "on" setting where all time zones are illuminated and a motion sensor setting where moving the slider will cause only the corresponding time zone to light up. 
+![IMG_0919](https://github.com/user-attachments/assets/7b0051d0-f971-4bee-b00f-e4e570b1ad08)
+![IMG_0916](https://github.com/user-attachments/assets/7b78a7b8-c6a4-42e2-a5fb-54c62c1b8d06)
 
 # Design Goals
 - Retireve time of day and connect brightness levels to certain times
